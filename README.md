@@ -27,5 +27,5 @@
     Access application: http://localhost:8080/
     
 #### 2.6 Docker compose - stop
-docker-compose -f docker-compose-recommendation.yml stop
+    docker-compose -f docker-compose-recommendation.yml stop
      
