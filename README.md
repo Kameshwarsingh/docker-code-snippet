@@ -31,13 +31,19 @@
     Access application: http://localhost:8080/
     
     
-#### 2.5 Docker compose - run
+    
+#### 2.5 Docker - stop
+    -- Stop docker container
+      docker container list
+      docker stop <<container>>
+    
+#### 2.6 Docker compose - run
 
     -- Change directory to recommendation, where docker compose file is located.
     docker-compose -f docker-compose-recommendation.yml up -d
     Access application: http://localhost:8080/
     
     
-#### 2.6 Docker compose - stop
+#### 2.7 Docker compose - stop
     docker-compose -f docker-compose-recommendation.yml stop
      
