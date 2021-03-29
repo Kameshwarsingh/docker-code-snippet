@@ -3,7 +3,7 @@
     Details of problem and high level solution is in PDF file - ArchitectureChallange-Response-KameshwarSingh-v0.1.pdf
 
 ### 2. How do I run and setup ?
-#### 2.1  Build using maven ( )
+#### 2.1  Build using maven
     
     --Change directory to recommendation/recommendation, where pom.xml is located
     cd recommendation/recommendation, where pom.xml is located)
