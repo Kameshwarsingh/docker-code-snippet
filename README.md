@@ -1,6 +1,4 @@
-## OpenID, Spring-boot, Docker compose
-
-### Brief  
+### 1. Brief  
     Code snippet to Authenticate user using OpenID connect (OAuth2.0. Social media such as Google, Facebook, Instagram support such integration)
     Details of problem and high level solution is in PDF file - ArchitectureChallange-Response-KameshwarSingh-v0.1.pdf
 
