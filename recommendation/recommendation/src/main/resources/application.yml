@@ -1,0 +1,18 @@
+server:
+  port: 8080
+
+#TODO: figure out why I need this here and in bootstrap.yml
+spring:
+  application:
+    name: recommendation
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            client-id: 406020484448-uidiges80gsvmu4dsdrlpgcl5j506rmv.apps.googleusercontent.com
+            client-secret: jQz7km5mlyP9Yk7lgqMOHNQs
+
+#logging:
+#  level:
+#    org.springframework.security: DEBUG

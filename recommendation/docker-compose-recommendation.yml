@@ -1,0 +1,16 @@
+version: "3"
+
+services:
+  recommendation:
+    build:
+      context: ./recommendation
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    networks:
+      - front-tier
+      - back-tier
+
+networks:
+  back-tier:
+  front-tier:
