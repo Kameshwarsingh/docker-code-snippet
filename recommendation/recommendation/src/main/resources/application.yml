@@ -10,8 +10,8 @@ spring:
       client:
         registration:
           google:
-            client-id: 406020484448-uidiges80gsvmu4dsdrlpgcl5j506rmv.apps.googleusercontent.com
-            client-secret: jQz7km5mlyP9Yk7lgqMOHNQs
+            client-id: <<clientId>>
+            client-secret: <<client-secret>>
 
 #logging:
 #  level:
