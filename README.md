@@ -14,7 +14,7 @@
 #### 2.2 Run from command line
 
     --Run from command line
-    java -jar target/recommendation-client-web-application.jar
+    java -jar target/recommendation-client-web-application-1.0.0-SNAPSHOT.jar
 
     Access application: http://localhost:8080/
 
